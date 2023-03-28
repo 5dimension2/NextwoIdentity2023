@@ -22,7 +22,7 @@ namespace NextwoIdentity2023.Controllers
             roleManager = _roleManager;
         }
         #endregion
-
+         
         #region Users
 
         [AllowAnonymous]
